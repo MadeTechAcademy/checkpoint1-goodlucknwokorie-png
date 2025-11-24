@@ -14,7 +14,7 @@ duties = [
     "Duty 13 Accept ownership of changes; embody the DevOps culture of 'you build it, you run it', with a relentless focus on the user experience.",
 ]#list of duties
 def go():
-    for duty in x2:
+    for duty in duties:
         print(duty + "\n")
 
 if __name__=="__main__":
