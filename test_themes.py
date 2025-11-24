@@ -1,3 +1,4 @@
+pip install pytest
 from themes import duties
 
 def test_has_13_duties():
