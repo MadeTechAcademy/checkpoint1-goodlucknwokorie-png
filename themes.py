@@ -1,4 +1,4 @@
-x2 = [
+duties = [
     "Duty 1 Script and code in at least one general purpose language and at least one domain-specific language to orchestrate infrastructure, follow test driven development and ensure appropriate test coverage.",
     "Duty 2 Initiate and facilitate knowledge sharing and technical collaboration with teams and individuals, with a focus on supporting development of team members.",
     "Duty 3 Engage in productive pair/mob programming to underpin the practice of peer review.",
