@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apprenticeship Duties</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #2c3e50; }
+        ul { list-style-type: decimal; }
+        li { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Apprenticeship Duties</h1>
+    <ul>
+        {% for duty in duties %}
+            <li>{{ duty }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
